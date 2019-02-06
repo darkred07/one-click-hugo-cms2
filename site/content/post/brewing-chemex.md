@@ -13,8 +13,6 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 pepe botella
 
-{{< figure }}
-
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
 {{< figure src="/media/spf13.jpg" title="Steve Francia" >}}
