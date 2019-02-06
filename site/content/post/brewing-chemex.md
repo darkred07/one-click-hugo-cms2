@@ -15,7 +15,7 @@ pepe botella
 
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
-{{< figure src="/img/blog-chemex.jpg" title="Steve Francia" >}}
+{{< figure src="/img/blog-chemex.jpg" title="<a href="/ha.html">Fuente</a>" >}}
 
 ## The little secrets of Chemex brewing
 
